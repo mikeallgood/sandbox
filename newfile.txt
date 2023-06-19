@@ -1,0 +1,2 @@
+newBranch1 - Added an extension of ".txt" to the newfile file. Also added this note.
+19 June 2023, 11:58 am: New Feature added to newBranch1.
